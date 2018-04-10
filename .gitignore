@@ -1,0 +1,7 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+# Any node modules
+node_modules
+server/node_modules
+client/node_modules
+# Skipping Database client
+db
